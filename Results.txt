@@ -1,0 +1,2 @@
+Total Calories,Total Distance,Total Floors,Total Steps,Avg Heartrate,Max Steps,Sleep
+0.00,0.00,0,0,0.00,0,NOT READING:NOT READING
